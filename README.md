@@ -1,4 +1,4 @@
-![IMG_20240410_180901](https://github.com/patreeck/rainAlert/assets/163764755/eee7aeab-995e-4ecb-92e9-d80e0e39a757)
+
 **Weather Forecast Notification Script**
 
 This Python script integrates with the OpenWeatherMap API and Twilio SMS messaging to provide proactive weather notifications. It automatically checks weather forecasts for a specified location (Dublin, Ireland) and sends SMS alerts if rain is predicted.
@@ -53,3 +53,6 @@ AUTH_TOKEN: Your Twilio account authentication token.
 
 Update DUBLIN_LAT and DUBLIN_LONG in the script to change the location (latitude and longitude) for weather forecasts.
 Customize the SMS message in the script (body parameter of client.messages.create()) as needed.
+
+
+![IMG_20240410_180901](https://github.com/patreeck/rainAlert/assets/163764755/eee7aeab-995e-4ecb-92e9-d80e0e39a757)

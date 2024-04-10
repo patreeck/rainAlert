@@ -55,4 +55,5 @@ Update DUBLIN_LAT and DUBLIN_LONG in the script to change the location (latitude
 Customize the SMS message in the script (body parameter of client.messages.create()) as needed.
 
 
-![IMG_20240410_180901](https://github.com/patreeck/rainAlert/assets/163764755/eee7aeab-995e-4ecb-92e9-d80e0e39a757)
+![IMG_20240410_203640](https://github.com/patreeck/rainAlert/assets/163764755/84c4a18d-a192-4c8d-932a-da77050b77c4)
+
